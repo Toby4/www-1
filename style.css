@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-	margin-top: 2.5%;
+	margin-top: 1%;
 	color: #484848;
 }
 
@@ -28,4 +28,16 @@ h2 {
 
 .fa-linux {
 	color: #f39c12;
+}
+
+.fa-envelope {
+	color: #e74c3c;
+}
+
+.fa-quote-right {
+	color: #2ecc71;
+}
+
+.fa:hover {
+	opacity: 0.5;
 }
