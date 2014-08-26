@@ -14,8 +14,19 @@ h1 {
 }
 
 h2 {
-	margin-top: 1%;
+	margin-top: 0.5%;
 	color: #484848;
+}
+
+h3 {
+	margin-top: 2%;
+	width: 60%;
+	display: inline-block;
+}
+
+a {
+	color: blue;
+	text-decoration: none;
 }
 
 .fa-twitter {
